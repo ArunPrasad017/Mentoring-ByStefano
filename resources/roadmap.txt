@@ -1,0 +1,23 @@
+Peter Norvig's "Teach Yourself Programming in Ten Years"
+
+it takes a while to learn how to code...
+
+set up environment
+ - github repo
+ - project structure
+ - ci/cd:
+  - test suite
+  - code quality
+    - coverage
+    - black
+    - linting
+    - documentation (including diagrams)
+  - deployment
+    - rollback strategy
+
+
+parallely get familiarity with concepts like:
+ - OOP
+ - SOLID
+ - Design Patterns
+ 
