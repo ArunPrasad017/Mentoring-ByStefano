@@ -1,0 +1,13 @@
+OOP in Python:
+https://realpython.com/python3-object-oriented-programming/
+
+SOLID:
+https://github.com/heykarimoff/solid.python/blob/master/1.srp.py
+https://medium.com/@dorela/s-o-l-i-d-principles-explained-in-python-with-examples-3332520b90ff
+
+Design Patterns:
+https://www.amazon.it/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
+https://www.amazon.it/Head-First-Design-Patterns-Freeman/dp/0596007124/
+https://www.youtube.com/watch?v=v9ejT8FO-7I
+https://refactoring.guru/design-patterns/python
+https://www.toptal.com/python/python-design-patterns

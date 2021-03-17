@@ -1,0 +1,23 @@
+Action: Create the repository and add the meeting logs
+Date - March 16, 2021
+- ELB
+- AWS service
+- Standard application(EC2)
+    - Flask app or not ?
+- ECS - custom version that AWS Is developing 
+    - Orchestrates images in BTS
+    - AWS maybe does the implementation with EC2
+    - Cost?
+- Minikube not working (It’s on our machine so not scalable)/ on Ec2 might not be a good solution.
+- Datasette Front end - uses plugins and no need to setup additional frameworks for making it work
+- Lambda option for datasette? As an alternate to docker deployment 
+    - Identify more regarding this option
+    - When not huge amount of data is present then we can obtain it
+- Next test: Try an option with docker rather than with other, use examples of web application
+    - Not an issue with CI tool
+    - ELB alternatives (free source) or ECS (Deploying a container)
+
+Tools discussion:
+- Sphinx (documentation of code) - https://www.sphinx-doc.org/en/master/#:~:text=Sphinx%20is%20a%20tool%20that,in%20a%20range%20of%20languages
+- Pydoc style - https://github.com/pycqa/pydocstyle for code documentation analysis and can be used by sphinx
+- SQLFluff - SQL linter
